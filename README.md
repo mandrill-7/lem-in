@@ -11,3 +11,5 @@ Graph algorithm to find the quickest way to go from a summit to an other.
 make
 ./lem-in < map/[your map name]
 ```
+
+### Marks. 109/100
